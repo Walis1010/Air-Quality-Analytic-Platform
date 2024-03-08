@@ -1,4 +1,6 @@
 # Air-Quality-Analytic-Platform
+Author: Pawarisa Saiyut
+
 This project was developed during the first year, first semester at university in 2022. It includes several modules for monitoring and reporting air quality data. 
 
 ## Data
@@ -48,4 +50,4 @@ This project was developed during the first year, first semester at university i
 - Optimize calculations in the utility module for better performance.
 
 
-Thank you for your time.
+Thank you for your time. 
